@@ -20,7 +20,7 @@ extension UITouch
     var weight: CGFloat {
         get{
             //This math is based on normalizing from a kitchen scale. Probably not that accurate
-            return (percentStrength / 0.23758865)
+            return (percentStrength / 0.23191489)
         }
     }
 }
