@@ -3,6 +3,7 @@
 //  Plum-o-Meter
 //
 //  Created by Simon Gladman on 24/10/2015.
+//  Amended by Stoo Sepp
 //  Copyright © 2015 Simon Gladman. All rights reserved.
 //
 
