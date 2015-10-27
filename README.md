@@ -1,9 +1,11 @@
-# Plum-O-Meter
+# Grape-O-Meter
 ###3D Touch Application for Weighing Any sort of soft-skinned fruits or vegetables
 
 ##### Based on FlexMonkey's original version  at https://github.com/FlexMonkey/Plum-O-Meter
 
 Added an extension to the app that adds the ability to weigh the fruit, based on normalizing with a kitchen scale (probably not that accurate)
+[![Little red ridning hood](http://i.imgur.com/nzQ4SgX.png)](https://youtu.be/SytXwjGGikA)
+
 
 ```swift
 
